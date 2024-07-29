@@ -6,3 +6,6 @@
 name = "Alice"
 age = 25
 print("My name is %s. I'm %d years old." %(name, age))
+
+# %s -> 문자
+# %d -> 숫자
